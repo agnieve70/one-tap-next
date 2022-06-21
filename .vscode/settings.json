@@ -1,0 +1,13 @@
+{
+  "emmet.preferences": {
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    }
+  },
+  "cSpell.words": [
+    "inputref",
+    "labelid",
+    "mapbox",
+    "mapboxgl"
+  ]
+}
