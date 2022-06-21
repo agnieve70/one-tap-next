@@ -27,7 +27,7 @@ module.exports = (phase, { defaultConfig }) => {
       NEXTAUTH_URL: "https://articly.agsys.online",
       nodemailer_username: "agnieve70@gmail.com",
       nodemailer_password: "rfquspyxsvpufxvf",
-      base_url: "https://one-tap.agsys.online",
+      base_url: "https://onetap.agsys.online/",
     },
   };
 };
