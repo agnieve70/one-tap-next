@@ -7,7 +7,7 @@ import "mapbox-gl/dist/mapbox-gl.css";
 import "../styles/globals.css";
 import Layout from "../components/layout/layout";
 // import "react-quill/dist/quill.snow.css";
-
+// this is okay
 function MyApp({ Component, pageProps }) {
   return (
     <Layout>
